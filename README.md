@@ -91,4 +91,8 @@ Haizhou wants to be a Data Analyst. The reason why he is interested in this job 
 Zijie and Kaylee wants to be an IT supporter, this job requires both soft and hardware knowledge. For example, Installing and configuring computer hardware, software, servers, networks and printers. Maintain and configure a Microsoft Intune MDM solution.
 Patch and support endpoints/servers. Monitor and report on existing systems. Maintain and configure an office365 environment including creating accounts, groups and mailboxes. Deliver effective and efficient customer service. Support the IT Coordinator as requires. To get this role, they must have at least 1 year experience in a similar role as well as demonstrated experience maintaining and configuring Windows endpoints, Office365 and Microsoft domains. Understanding of networking (LAN, WAN, VPN and wireless networks) is included. <br>
 Overall, Eric, Haizhou and Jason mainly focus on software skills. Zijie and Kaylee need to learn both soft and hardware skills.
-  
+
+<h1>Tools</h1>
+<h3>The link to group’s website: https://s3701549.github.io/The-IT-World/ </h3>
+<h3>The link to group’s Git repositor: https://github.com/s3701549/The-IT-World</h3>
+
