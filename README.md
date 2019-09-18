@@ -21,3 +21,13 @@ Email: “kaylee0901@icloud.com”<br>
 Description: I come from Vietnam, so obviously I can speak Vietnamese. I am a freshman of Bachelor of Information Technology. I came to Australia about 3 years ago. Fun fact: I have a cat which is named Theodore and I love it.<br>
 <br>
 <br>
+Name: Haizhou Cheng, Eric<br>
+Student number: s3622097<br>
+Email: 81996862gmail.com<br>
+Description: Hi, my name is Haizhou Cheng, you also can call me Eric.I come from China, Shenzhen, which is the first economic zone in China. Because I am Chinese so my first language is Chinese, I am doing undergraduate about Information Technology in RMIT. This is my first time learning knowledge in university and also this is my first time learning something by using English. I am a person with a wide range of interests, I like sport, I can swim, play basketball, table tennis, billiards and so on. Even though I am not really good at it but still enjoy it. Also I really love card, I play all the things contain card, for example poker card game and poke card trick, magic the gathering game, Hearthstone. Next of course is video game. My favourite game is League of legend, second favourite is Blizzard game.<br>
+<br>
+<br>
+Name: Zijie Luo, Damon<br>
+Student number: s3809908<br>
+Email: s3809908@student.rmit.edu.au<br>
+Description: Hello everyone, let me introduce myself here briefly, I am Zijie Luo from China, you can also call me Damon, now I am studying at RMIT University, majoring in IT courses, my students number is s3809908 and the email address is s3809908@student.rmit.edu.au. If you want to make friends or have any questions, you can contact me via this email address. In fact, I have a small hobby that I especially like cats. I have three cats in China. After I came here, I also have two cats at home. I think cats are good friends of human beings. Getting along with them can make our lives full. pleasure.<br>
