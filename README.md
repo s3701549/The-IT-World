@@ -12,7 +12,7 @@ Name: Nuozehua Li<br>
 Student number: S3701549<br>
 Email: 37015497@student.rmit.edu.au<br>
 <a><img src="bamboo.jpg" alt="bamboo" width="200" height="150"></a>
-<a><img src="cave.jpg" alt="cave" width="200" height="150"></a>
+<a><img src="cave.jpg" alt="cave" width="200" height="150"></a><br>
 Description：I come from JiangSu China, in my hometown, there are many famous scenic spots such as natural caves and bamboo forests. 
 I have been in Melbourne for a year, I graduated from diploma and start my bachelor life now. I can speak Chinese, English, but my English still not very good. About my hobbies, I like playing games in my free time. I also like listening to music when I read books, it can make me relax.<br>
 <br>
