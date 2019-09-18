@@ -36,7 +36,7 @@ Email: s3809908@student.rmit.edu.au<br>
 Description: Hello everyone, let me introduce myself here briefly, I am Zijie Luo from China, you can also call me Damon, now I am studying at RMIT University, majoring in IT courses, my students number is s3809908 and the email address is s3809908@student.rmit.edu.au. If you want to make friends or have any questions, you can contact me via this email address. In fact, I have a small hobby that I especially like cats. I have three cats in China. After I came here, I also have two cats at home. I think cats are good friends of human beings. Getting along with them can make our lives full. pleasure.<br>
 <br>
 <h2>Team profile</h2>
-Name: Zijie Luo <br>
+<h5>Name: Zijie Luo</h5> <br>
 <a><img src="Test1.jpg" alt="bamboo" width="500" height="400"></a>
 <a><img src="Test2.jpg" alt="bamboo" width="400" height="150"></a><br>
 The first test proved that I am a protector who likes to take charge of things and be enthusiastic.
@@ -45,14 +45,14 @@ The third is an intelligence test. The result of the test is that my IQ is betwe
 Summarizing the results of these three tests, I am a person who can be seriously responsible in the team, will complete their tasks on time and can help others, but in the team work may be affected by other things, when forming the team I need a strong leader to supervise me, and I can be the one who helps the leader manage the team.<br>
   <br>
   <br>
-  Name: Kaylee<br>
+  <h5>Name: Kaylee</h5><br>
     1. Myers-Briggs test: Mind: Introvert 53%, Energy: Observant 54%, Nature: Feeling 65%, Tactics: Prospecting 58%, Identity: Turbulent: 64%<br>
     2. Learning Style test: Auditory: 25%, Visual: 40%, Tactile: 35% <br>
     3. Big Five Personality test: Extraversion 42%, Agreeableness 67%, Conscientiousness 84%, Neuroticism 40%, Openness 60%.<br>
 These tests tell me what is my personality, and what is my learning type is. I am likely to be an introvert. This may affect my teamwork ability. However, this is a challenge for me to get over myself. With my conscientiousness, I will try my best to do all my work as a team.<br>
   <br>
   <br>
-  Name: Jason<br>
+ <h5> Name: Jason</h5><br>
   The results of an online Myers-Briggs test:<br>
   <a><img src="Test3.png" alt="T3"></a><br>
   The results of an online learning style test:<br>
