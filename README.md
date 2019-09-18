@@ -26,7 +26,7 @@ Description: I come from Vietnam, so obviously I can speak Vietnamese. I am a fr
 Name: Haizhou Cheng, Eric<br>
 Student number: s3622097<br>
 Email: 81996862gmail.com<br>
-<a><img src="book.jpg" alt="book" width=300" height="200"></a><br>
+<img src="book.jpg" alt="book" width=300" height="200"><br>
 Description: Hi, my name is Haizhou Cheng, you also can call me Eric.I come from China, Shenzhen, which is the first economic zone in China. Because I am Chinese so my first language is Chinese, I am doing undergraduate about Information Technology in RMIT. This is my first time learning knowledge in university and also this is my first time learning something by using English. I am a person with a wide range of interests, I like sport, I can swim, play basketball, table tennis, billiards and so on. Even though I am not really good at it but still enjoy it. Also I really love card, I play all the things contain card, for example poker card game and poke card trick, magic the gathering game, Hearthstone. Next of course is video game. My favourite game is League of legend, second favourite is Blizzard game.<br>
 <br>
 <br>
