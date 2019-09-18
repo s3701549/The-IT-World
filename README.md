@@ -56,6 +56,14 @@ These tests tell me what is my personality, and what is my learning type is. I a
   The results of an online Myers-Briggs test:<br>
   <a><img src="Test3.png" alt="T3"></a><br>
   The results of an online learning style test:<br>
-    <a><img src="Test4.png" alt="T4"></a><br>
+   <a><img src="Test4.png" alt="T4"></a><br>
+   The results of one further online test:<br>
+O = Openness, C = Conscientiousness, E = Extraversion, A = greeableness, N = Neuroticism<br>
+  <a><img src="Test5.png" alt="T5"></a><br>
+I think some opinions in the results of these tests are true for me, but not all. Maybe as the results show I’m auditory learner, so I will pay attention to this and more use this way to study in the future. The result also show I'm introverted and I admit it, this is one of the drawbacks for me, but l will try to get over it. There are all results mean for me: keep going and develop myself.<br>
+Different people have different personalities, these personality must influence the behavior when they are working as a team; For example, I’m introverted, this will influence the team communication in a team; if you are a sense of responsibility and easy-going, people will like to work with you.<br>
+If I’m the team manager, I will assign different tasks to people who have different personalities. If people who are outgoing, these people usually have communication and language skills, so they are Suitable to be a diplomat; If people who are introverted, these kind of people always have a sense of responsibility and work very hard in the team. So they are suitable to be a staff such as programmer. That is my opinion.<br>
+<br>
+<br>
   
   
