@@ -69,8 +69,19 @@ If I’m the team manager, I will assign different tasks to people who have diff
  <a><img src="Test6.png" alt="T6"></a><br>
  <a><img src="Test7.png" alt="T7"></a><br>
  <a><img src="Test8.png" alt="T8"></a><br>
- Although these data can not represent my real person, it is indeed a reference indicator for me. In my opinion, this data allows me to understand myself more specifically. As the learning test shows, I am a visual learner. I fully agree with this point. There is no way for my subconscious to grasp the abstract things. But if it is a very specific thing, then I will remember or learn very quickly. For example, I chose IT instead of business haha! Those abstract theories are more difficult to understand and learn than actual code.
+ Although these data can not represent my real person, it is indeed a reference indicator for me. In my opinion, this data allows me to understand myself more specifically. As the learning test shows, I am a visual learner. I fully agree with this point. There is no way for my subconscious to grasp the abstract things. But if it is a very specific thing, then I will remember or learn very quickly. For example, I chose IT instead of business haha! Those abstract theories are more difficult to understand and learn than actual code.<br>
 The structure of a team is simply the leader and the team members. After the leader receives the task and discuss with the group member and then assigns the task, the leader needs experience and determination. He needs to make the right choices right away from his experience, and he can't hesitate to let the team members question the task and slow down the work. The team members need to do the assigned work well and meet the mission requirements. They cannot slow down the whole project because they are slow. This requires patience and seriousness. So I may be more suitable for team members at the moment, and carefully assign the assigned tasks.
-So when teaming up, I might need to find an experienced and determined leader and do the assignment. Let me play my abilities better.
-  
+So when teaming up, I might need to find an experienced and determined leader and do the assignment. Let me play my abilities better.<br>
+<br>
+<br>
+ <h5> Name: Haizhou Cheng</h5><br>
+ The results of Myers-Briggs test:<br>
+  <a><img src="Test9.png" alt="T9"></a><br>
+  The results of learning style test:<br>
+ <a><img src="Test10.png" alt="T10"></a><br>
+ The result of persona test:<br>
+ <a><img src="Test11.png" alt="T11"></a><br>
+This result is trying to tell me that what I am, so I need to think about it and change the bad behaviour that may make me have bad relations with team members. It is a good thing that help me look at myself and help me become a better person. If I am going to make a team, I need to think about member behaviours cannot be too different, otherwise this team may not be able to do the work fluently.
+  <br>
+  <h2>Ideal Job</h2>
   
