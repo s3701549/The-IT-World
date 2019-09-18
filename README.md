@@ -31,3 +31,10 @@ Name: Zijie Luo, Damon<br>
 Student number: s3809908<br>
 Email: s3809908@student.rmit.edu.au<br>
 Description: Hello everyone, let me introduce myself here briefly, I am Zijie Luo from China, you can also call me Damon, now I am studying at RMIT University, majoring in IT courses, my students number is s3809908 and the email address is s3809908@student.rmit.edu.au. If you want to make friends or have any questions, you can contact me via this email address. In fact, I have a small hobby that I especially like cats. I have three cats in China. After I came here, I also have two cats at home. I think cats are good friends of human beings. Getting along with them can make our lives full. pleasure.<br>
+<br>
+<h2>Team profile</h2>
+Name: Zijie Luo <br>
+The first test proved that I am a protector who likes to take charge of things and be enthusiastic.
+The second test proved that I am a visual learner. I usually understand and learn things through vision, and I can easily attract attention with rich image colors and sounds.<br>
+The third is an intelligence test. The result of the test is that my IQ is between 105 and 120, which is equivalent to the normal college level.<br>
+Summarizing the results of these three tests, I am a person who can be seriously responsible in the team, will complete their tasks on time and can help others, but in the team work may be affected by other things, when forming the team I need a strong leader to supervise me, and I can be the one who helps the leader manage the team.<br>
