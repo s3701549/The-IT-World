@@ -43,3 +43,14 @@ The first test proved that I am a protector who likes to take charge of things a
 The second test proved that I am a visual learner. I usually understand and learn things through vision, and I can easily attract attention with rich image colors and sounds.<br>
 The third is an intelligence test. The result of the test is that my IQ is between 105 and 120, which is equivalent to the normal college level.<br>
 Summarizing the results of these three tests, I am a person who can be seriously responsible in the team, will complete their tasks on time and can help others, but in the team work may be affected by other things, when forming the team I need a strong leader to supervise me, and I can be the one who helps the leader manage the team.<br>
+  <br>
+  <br>
+  Name: Kaylee<br>
+    1. Myers-Briggs test: Mind: Introvert 53%, Energy: Observant 54%, Nature: Feeling 65%, Tactics: Prospecting 58%, Identity: Turbulent: 64%<br>
+    2. Learning Style test: Auditory: 25%, Visual: 40%, Tactile: 35% <br>
+    3. Big Five Personality test: Extraversion 42%, Agreeableness 67%, Conscientiousness 84%, Neuroticism 40%, Openness 60%.<br>
+These tests tell me what is my personality, and what is my learning type is. I am likely to be an introvert. This may affect my teamwork ability. However, this is a challenge for me to get over myself. With my conscientiousness, I will try my best to do all my work as a team.<br>
+  <br>
+  <br>
+  Name: Jason
+  
