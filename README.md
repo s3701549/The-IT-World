@@ -37,6 +37,7 @@ Description: Hello everyone, let me introduce myself here briefly, I am Zijie Lu
 <br>
 <h2>Team profile</h2>
 Name: Zijie Luo <br>
+<a><img src="book.jpg" alt="book" width=300" height="200"></a><br>
 The first test proved that I am a protector who likes to take charge of things and be enthusiastic.
 The second test proved that I am a visual learner. I usually understand and learn things through vision, and I can easily attract attention with rich image colors and sounds.<br>
 The third is an intelligence test. The result of the test is that my IQ is between 105 and 120, which is equivalent to the normal college level.<br>
