@@ -37,7 +37,7 @@ Description: Hello everyone, let me introduce myself here briefly, I am Zijie Lu
 <br>
 <h2>Team profile</h2>
 Name: Zijie Luo <br>
-<img src="Test1.jpg" alt="Test1" width=300" height="600">
+<img src="Test1.jpg" alt="Test1" width=600" height="400">
 <img src="Test2.jpg" alt="Test2" width=400" height="150"><br>
 The first test proved that I am a protector who likes to take charge of things and be enthusiastic.
 The second test proved that I am a visual learner. I usually understand and learn things through vision, and I can easily attract attention with rich image colors and sounds.<br>
