@@ -52,5 +52,10 @@ Summarizing the results of these three tests, I am a person who can be seriously
 These tests tell me what is my personality, and what is my learning type is. I am likely to be an introvert. This may affect my teamwork ability. However, this is a challenge for me to get over myself. With my conscientiousness, I will try my best to do all my work as a team.<br>
   <br>
   <br>
-  Name: Jason
+  Name: Jason<br>
+  The results of an online Myers-Briggs test:<br>
+  <a><img src="Test3.png" alt="T3"></a><br>
+  The results of an online learning style test:<br>
+    <a><img src="Test4.png" alt="T4"></a><br>
+  
   
