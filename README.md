@@ -128,4 +128,6 @@ Answer: The three highest ranked IT-specific skills are SQL, JavaScript and Java
 Answer: The three highest ranked general skills are Communication, Problem Solving and Organizational, and these three skills are all in our group general skill set.
 <h2>Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not?</h2>
 Answer: All members of the group dose not change their ideal jobs, because the ideal jobs are determined after careful consideration. These are what we really like, and we also think that these jobs will help the future, what’s more, at this stage, we don't have much work experience and IT experience, so it is a bit unrealistic to change the ideal jobs based on these data.
-
+<br>
+<br>
+<h1>IT Work</h1>
