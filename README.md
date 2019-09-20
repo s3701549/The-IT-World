@@ -118,3 +118,7 @@ Answer: The IT-specific skills in our group that demanded by employers are Micro
   <a><img src="P1.png" alt="P1"></a><br>
     <a><img src="P2.png" alt="P2"></a><br>
       <a><img src="P3.png" alt="P3"></a><br>
+<h3>(2) How do the general skills in your required skill set rank in terms of demand from employers? </h3>
+Answer: The general skills in our group that demanded by employers are Communication, Problem Solving, Trouble Shooting and Time Management. As can be seen from the data given, Communication skill is the skill that greatest demanded by the employer, As can be seen from the data given, Communication skill is the Top 1 general skill in 2017 and 2018. the other skills like Problem Solving, Trouble Shooting and Time Management, they also are in the Top 10 general skills.
+<a><img src="P4.png" alt="P4"></a><br>
+<a><img src="P5.png" alt="P5"></a><br>
