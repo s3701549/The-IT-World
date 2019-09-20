@@ -122,3 +122,10 @@ Answer: The IT-specific skills in our group that demanded by employers are Micro
 Answer: The general skills in our group that demanded by employers are Communication, Problem Solving, Trouble Shooting and Time Management. As can be seen from the data given, Communication skill is the skill that greatest demanded by the employer, As can be seen from the data given, Communication skill is the Top 1 general skill in 2017 and 2018. the other skills like Problem Solving, Trouble Shooting and Time Management, they also are in the Top 10 general skills.
 <a><img src="P4.png" alt="P4"></a><br>
 <a><img src="P5.png" alt="P5"></a><br>
+<h3>(3) What are the three highest ranked IT-specific skills which are not in your required skill set? </h3>
+Answer: The three highest ranked IT-specific skills are SQL, JavaScript and Java. SQL is not in our group IT-specific skill set.
+<h3>(4) What are the three highest ranked general skills which are not in your required skill set?</h3>
+Answer: The three highest ranked general skills are Communication, Problem Solving and Organizational, and these three skills are all in our group general skill set.
+<h2>Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not?</h2>
+Answer: All members of the group dose not change their ideal jobs, because the ideal jobs are determined after careful consideration. These are what we really like, and we also think that these jobs will help the future, what’s more, at this stage, we don't have much work experience and IT experience, so it is a bit unrealistic to change the ideal jobs based on these data.
+
