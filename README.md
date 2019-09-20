@@ -131,3 +131,20 @@ Answer: All members of the group dose not change their ideal jobs, because the i
 <br>
 <br>
 <h1>IT Work</h1>
+<h3>We had interviewed Mr Hoai Van Nguyen, an IT developer of Vicroads.</h3>
+
+<h4>Q: Please tell us about your IT work. What exactly you do? </h4>
+A: I’m a software developer. My mainstream is web development which involves building web applications. Right now, I’m a contractor working on projects for Vicroads.  
+
+<h4>Q: What kind of people do you interact with? Are they other IT professionals? Clients? Investors? The general public? Please tell us about them.</h4>
+A: Day to day I’m interacting with other developers, team lead, testers, and business analysts as well as product owners. We are all part of an agile project team.
+
+<h4>Q: Where do you spend most of your time? Please tell us about these.</h4>
+A: Most of my time is spent in the office writing code, discussing ideas with other developers. Sometimes I also need to troubleshoot issues raised by testers, fix bugs and explain how the system works.
+
+<h4>Q: What aspect of their position is most challenging?</h4>
+A: The most challenging aspect of my job is gathering the require
+<br>
+<br>
+<h1>IT Technologies</h1>
+
