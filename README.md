@@ -103,7 +103,7 @@ Kaylee : https://minhkhue0901.github.io/<br>
 Zijie Luo : https://damon5333.github.io/COSC1078-A1/<br>
 
 <h1>Industry Data</h1>
-<h2>Question 1: What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</h2>
+<h2>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</h2>
 Our group has 5 members: Hai Minh Khue Ta(Kaylee), Nuozehua Li(Jason), Haizhou Cheng(Eric), Zijie Luo(Damon) and Yifei Wang.<br>
 	For Kaylee, Job title for her ideal job is IT Support Officer, from the given Burning class data, it can be seen that from March 2017 to March 2018, the IT Support Officer is ranked 36th, there are 201 Job titles total, from the perspective of ranking, this work is highly demanded by employers.<br>
 	For Jason, Job title for his ideal job is Application Developer, from the given Burning class data, it can be seen that from March 2017 to March 2018, the Application Developer is ranked 97th, from the perspective of ranking, this work is relatively small in terms of employers demand.<br>
@@ -112,4 +112,6 @@ Our group has 5 members: Hai Minh Khue Ta(Kaylee), Nuozehua Li(Jason), Haizhou C
 	For Yifei Wang, Job title for his ideal job is Software Engineer, from the given Burning class data, it can be seen that from March 2017 to March 2018, the Software Engineer is ranked 12th, from the perspective of ranking, this work is very highly demanded by employers.<br>
 <br>
 <br>
-
+<h2>From your group’s ideal jobs, you can identify a set of skills required for these jobs </h2>
+<h3>(1) How do the IT-specific skills in your required skill set rank in terms of demand from employers?</h3>
+Answer: The IT-specific skills in our group that demanded by employers are Microsoft Office, VPN, Java, C, C+, Python , JavaScript, SQL Serve, HTML and CSS. As can be seen from the data given, Java and JavaScript are the skills that highly demanded by the employer. They are TOP5 skills demanded in 2017 and 2018. The other skills like Python, HTML, CSS and SQL Serve, They are the skills that most IT jobs need and are ranked in the top 20.
