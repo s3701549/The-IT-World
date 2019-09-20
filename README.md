@@ -103,5 +103,13 @@ Kaylee : https://minhkhue0901.github.io/<br>
 Zijie Luo : https://damon5333.github.io/COSC1078-A1/<br>
 
 <h1>Industry Data</h1>
-
+<h2>Question 1: What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</h2>
+Our group has 5 members: Hai Minh Khue Ta(Kaylee), Nuozehua Li(Jason), Haizhou Cheng(Eric), Zijie Luo(Damon) and Yifei Wang.<br>
+	For Kaylee, Job title for her ideal job is IT Support Officer, from the given Burning class data, it can be seen that from March 2017 to March 2018, the IT Support Officer is ranked 36th, there are 201 Job titles total, from the perspective of ranking, this work is highly demanded by employers.<br>
+	For Jason, Job title for his ideal job is Application Developer, from the given Burning class data, it can be seen that from March 2017 to March 2018, the Application Developer is ranked 97th, from the perspective of ranking, this work is relatively small in terms of employers demand.<br>
+	For Eric, Job title for his ideal job is Analyst Programmer, from the given Burning class data, it can be seen that from March 2017 to March 2018, the Analyst Programmer is ranked 70th, from the perspective of ranking, this work is relatively high demanded by employers.<br>
+	For Damon, Job title for his ideal job is IT Support Technician, from the given Burning class data, it can be seen that from March 2017 to March 2018, the IT Support Technician is ranked 147th, from the perspective of ranking, this work is less demanded by employers.<br>
+	For Yifei Wang, Job title for his ideal job is Software Engineer, from the given Burning class data, it can be seen that from March 2017 to March 2018, the Software Engineer is ranked 12th, from the perspective of ranking, this work is very highly demanded by employers.<br>
+<br>
+<br>
 
