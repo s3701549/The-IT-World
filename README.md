@@ -115,3 +115,6 @@ Our group has 5 members: Hai Minh Khue Ta(Kaylee), Nuozehua Li(Jason), Haizhou C
 <h2>From your group’s ideal jobs, you can identify a set of skills required for these jobs </h2>
 <h3>(1) How do the IT-specific skills in your required skill set rank in terms of demand from employers?</h3>
 Answer: The IT-specific skills in our group that demanded by employers are Microsoft Office, VPN, Java, C, C+, Python , JavaScript, SQL Serve, HTML and CSS. As can be seen from the data given, Java and JavaScript are the skills that highly demanded by the employer. They are TOP5 skills demanded in 2017 and 2018. The other skills like Python, HTML, CSS and SQL Serve, They are the skills that most IT jobs need and are ranked in the top 20.
+  <a><img src="P1.png" alt="P1"></a><br>
+    <a><img src="P2.png" alt="P2"></a><br>
+      <a><img src="P3.png" alt="P3"></a><br>
