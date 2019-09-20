@@ -95,4 +95,13 @@ Overall, Eric, Haizhou and Jason mainly focus on software skills. Zijie and Kayl
 <h1>Tools</h1>
 <h3>The link to group’s website: https://s3701549.github.io/The-IT-World/ </h3>
 <h3>The link to group’s Git repositor: https://github.com/s3701549/The-IT-World</h3>
+<h3>Team members’ webpage:</h3>
+Haizhou Cheng : https://ericcheng9527.github.io/COSC1078A1/<br>
+Eric : https://s3727607.github.io/COSC1078A1/<br>
+Jason : https://s3701549.github.io/COSC1078A1/<br>
+Kaylee : https://minhkhue0901.github.io/<br>
+Zijie Luo : https://damon5333.github.io/COSC1078-A1/<br>
+
+<h1>Industry Data</h1>
+
 
