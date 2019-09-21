@@ -65,7 +65,7 @@ Different people have different personalities, these personality must influence 
 If I’m the team manager, I will assign different tasks to people who have different personalities. If people who are outgoing, these people usually have communication and language skills, so they are Suitable to be a diplomat; If people who are introverted, these kind of people always have a sense of responsibility and work very hard in the team. So they are suitable to be a staff such as programmer. That is my opinion.<br>
 <br>
 <br>
- <h5> Name: Eric</h5><br>
+ <h5> Name: Yifei Wang</h5><br>
  <a><img src="Test6.png" alt="T6"></a><br>
  <a><img src="Test7.png" alt="T7"></a><br>
  <a><img src="Test8.png" alt="T8"></a><br>
@@ -86,7 +86,7 @@ This result is trying to tell me that what I am, so I need to think about it and
   <h2>Ideal Job</h2>
   Our group members have a very wide view about their ideal job. Except Kaylee and Zijie, we all have different ideals about our future job. We are interested in different areas and focus on different skills. <br>
 Jason wants to be an Application Developer. He think programming is a very interesting skill, he wants to have a job which let him working with softerwave. This job required some programming skills, such as JAVA and C or C++.<br>
-Eric wants to be a Software Engineering. This job may sound a little bit like Jason’s one, but actually it still have some differences. Jason’s job mainly focus on making an application according user’s require. Eric one is deals with writing code to create a software program. A software programmer needs to know coding and excel at developing algorithms, always run tests to make sure all the codes are correct and fix bugs. This job needs a reliable development language such as Java, C#, Python, etc, SQL Server, Visual Studio, JavaScript, HTML, CSS and an excellent communication skills which can help him share his ideas with others. <br>
+Yifei Wang wants to be a Software Engineering. This job may sound a little bit like Jason’s one, but actually it still have some differences. Jason’s job mainly focus on making an application according user’s require. Eric one is deals with writing code to create a software program. A software programmer needs to know coding and excel at developing algorithms, always run tests to make sure all the codes are correct and fix bugs. This job needs a reliable development language such as Java, C#, Python, etc, SQL Server, Visual Studio, JavaScript, HTML, CSS and an excellent communication skills which can help him share his ideas with others. <br>
 Haizhou wants to be a Data Analyst. The reason why he is interested in this job is because of after 5G come out every company need to deal with plenty of data, data may become the most important thing everyone needs to face in everyday, no matter who you are, where you live, you all need to look at different types of data and make a correct decision about how to use it. And also this job can help me learning Artificial Intelligence in the future. And this job requires a lot of skills and experience, such as strong Python and JavaScript skills, have experience with AI or machine learning and LAMP + Mongo DB blended stack. Also need some experience about AWS knowledge, and they prefer the person who graduated recently.<br>
 Zijie and Kaylee wants to be an IT supporter, this job requires both soft and hardware knowledge. For example, Installing and configuring computer hardware, software, servers, networks and printers. Maintain and configure a Microsoft Intune MDM solution.
 Patch and support endpoints/servers. Monitor and report on existing systems. Maintain and configure an office365 environment including creating accounts, groups and mailboxes. Deliver effective and efficient customer service. Support the IT Coordinator as requires. To get this role, they must have at least 1 year experience in a similar role as well as demonstrated experience maintaining and configuring Windows endpoints, Office365 and Microsoft domains. Understanding of networking (LAN, WAN, VPN and wireless networks) is included. <br>
@@ -97,7 +97,7 @@ Overall, Eric, Haizhou and Jason mainly focus on software skills. Zijie and Kayl
 <h3>The link to group’s Git repositor: https://github.com/s3701549/The-IT-World</h3>
 <h3>Team members’ webpage:</h3>
 Haizhou Cheng : https://ericcheng9527.github.io/COSC1078A1/<br>
-Eric : https://s3727607.github.io/COSC1078A1/<br>
+Yifei Wang : https://s3727607.github.io/COSC1078A1/<br>
 Jason : https://s3701549.github.io/COSC1078A1/<br>
 Kaylee : https://minhkhue0901.github.io/<br>
 Zijie Luo : https://damon5333.github.io/COSC1078-A1/<br>
