@@ -143,7 +143,7 @@ A: Day to day I’m interacting with other developers, team lead, testers, and b
 A: Most of my time is spent in the office writing code, discussing ideas with other developers. Sometimes I also need to troubleshoot issues raised by testers, fix bugs and explain how the system works.
 
 <h4>Q: What aspect of their position is most challenging?</h4>
-A: The most challenging aspect of my job is gathering the require
+A: The most challenging aspect of my job is gathering the requirements. Most of the time the business knows what they want, and we build our software accordingly. However, sometimes what they want is not really what they need. And because of that, we need to change or rebuild that causes delays and costly implementation which in turn might lead to over budget and behind schedule projects.
 <br>
 <br>
 <h1>IT Technologies</h1>
