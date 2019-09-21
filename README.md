@@ -147,4 +147,65 @@ A: The most challenging aspect of my job is gathering the require
 <br>
 <br>
 <h1>IT Technologies</h1>
+<h2>Autonomous Vehicles</h2>
+
+Autonomous vehicles, also known as driverless cars, computer-driven cars or wheeled mobile robots, are unmanned ground vehicles for transporting power. As an automated vehicle, autonomous vehicles can sense their environment and navigation without human intervention. Complete autonomous vehicles are still not fully commercialized, most of them are prototypes and display systems, and some reliable technologies are decentralized to mass production models, which has gradually become a reality.<br>
+Autonomous vehicles can sense their environment with radar, optical radar, GPS and computer vision technologies. Advanced control systems convert sensory data into appropriate navigational roads, as well as obstacles and related signs. By definition, autonomous vehicles can update their map information by sensing the input data so that the vehicle can keep track of its location.<br>
+The display system for self-driving cars dates back to the 1920s and 1930s, and the first truly autonomous car appeared in the 1980s. In 1984, Carnegie Mellon University promoted the Navlab program and the ALV program; in 1987, Mercedes-Benz and the Federal Defense University of Munich jointly promoted the Eureka Prometheus project. Since then, many large companies and research institutes have begun to produce prototypes of operational self-driving cars. After the 21st century, along with the advancement of information technology, it has been advancing by leaps and bounds. Fully-automobile vehicles have been manufactured on test vehicles. Tesla Motors is the first to introduce self-driving vehicles in specific environments.<br>
+<h3>Development</h3>
+Tucson Future Technology expects the official deployment of the fleet to begin in the second half of 2019. In addition to testing in California and Arizona, Tucson Future Technology, which was invested by NVIDIA, is also testing in Caofeidian Port and Tangcao Expressway in China, with a top speed of 90 km/h. As of March 2018, it has already tested 10,000 km. <br>
+The Volvo Group expects to introduce a car that will prevent passengers from being injured in 2020. The Regal Group also claims that the vehicle will be able to effectively "away from the collision."<br>
+GM, Mercedes-Benz, Audi, Regal, Nissan, BMW, Renault, Tesla and Google are all expected to launch cars that will be at least partially auto-driving by 2020.<br>
+The goal of the Google Autopilot program is to solve all unresolved problems with today's autonomous vehicles by 2020.
+Jaguar expects to launch autonomous vehicles in 2024.<br>
+Daimler and Ford are expected to launch autonomous vehicles on the market in 2025. Ford is expected to launch its first self-driving car targeting the public but has not announced its target date.<br>
+GM expects that most of the new cars it manufactures will have autopilot capabilities and shop floor communication technology by 2025.
+IHS's car report predicts that by 2035, most autonomous vehicles will be able to operate completely independent of the control of human passengers.<br>
+Navigant Research predicts that autonomous vehicles will gradually gain attention over the next 20 years, and by 2035, it will reach 95.4 million units per year, accounting for 75% of the overall automotive market.<br>
+IEEE experts and scholars predict that up to 75% of vehicles will be automated by 2040.<br>
+Some people hold the opposite view. Raj Rajkumar, director of Carnegie Mellon University's research on autonomous driving technology, said in 2014 that artificial intelligence for autonomous vehicles will not appear "very soon"; Detroit's cars Manufacturers believe that "the vision that a fully self-driving car can achieve in the short term is just a 'simple family fantasy.'"<br>
+<h3>Potential advantage</h3>
+Possible benefits of using autonomous vehicles include:<br>
+Less traffic accidents, because autonomous vehicles do not have limited environmental sensing capabilities like human driving, but can use active and passive sensors (such as optical radar and radar) to continuously perform a wide range of sensing (such as visible light, infrared With sound waves such as ultrasonic waves, etc., with a 360-degree field of view, it can respond safely to potential crises, and its response can be more rapid than human driving.<br>
+Avoid traffic accidents caused by human factors such as too close driving distance, distracted driving and dangerous driving.
+Reduce the required safety gaps and better manage traffic flow, thereby increasing road capacity and reducing traffic congestion.
+Reduce the work of vehicle passengers driving and navigation.<br>
+Self-driving cars can have higher speed limits.
+Exemption from passenger restrictions - In autonomous vehicles, there is no need to care if passengers are under-aged, old, driverless, blind, incompetent, drunk and so on.<br>
+Relieve the shortage of urban parking spaces, because cars can allow passengers to get off the crowded area, stop at a densely populated area, stop at another location with enough parking space, and return to carry passengers when needed.
+Increase car sharing and reduce the total number of vehicles, because autonomous vehicles can take passengers out of the car and carry another passenger to another place.
+Reduce the physical space required for parking, so that the vehicle can only enter the parking space after driving, such as mechanical parking spaces.
+Exempting Excess Passengers - Self-driving cars can be driven to the desired location, such as carrying passengers or performing maintenance, without the need for someone to be in the car. This is especially relevant for trucks, taxis and car sharing services.
+Reduce the need for traffic police and car insurance costs.
+Reducing physical road signs - Autonomous vehicles can receive the necessary communications electronically (although for human driving, physical signs are still required).
+Smoother driving.
+Because the vehicle's sensing ability is improved, theft of the vehicle can be reduced.
+Removing the steering wheel and other driving interfaces saves cabin space and allows for cockpit design that does not require passengers to sit in the driver's seat.
+Potential obstacle
+Despite the many benefits of vehicle automation, the foreseeable challenges remain:
+Liability for damages.
+Individuals will resist giving up their control over the car.
+Software reliability.
+An inter-vehicle communication system is needed to coordinate the computer systems of individual cars, the information security of the car network, and the like.
+The government must establish and implement a specific regulatory framework for autonomous vehicles.
+Some drivers may not have experience if there is a need for manual driving.
+Reduce job opportunities related to driving.
+Loss of privacy.
+For the communication between cars, more radio spectrum is needed.
+Autonomous vehicles may be loaded with explosives, poisons, etc. for use as terrorist attacks.
+An ethical issue like the tram problem - when the software of an autonomous car is forced to make a decision on possible damage in the event of an inevitable collision, problems can arise.
+Reliability of the navigation system of the car under different weather types
+Self-driving cars are functioning properly and require a very high-quality dedicated map. If these maps are out of date, autonomous vehicles must be able to return to reasonable behavior on their own.
+At present, the gestures and physical functions of the police and other pedestrians cannot be recognized and understood by self-driving cars.
+Current road infrastructure may need to be rebuilt for autonomous vehicles to achieve the best results. Some examples include traffic signs and streetlights that communicate with self-driving cars.
+<h3>Possible influence</h3>
+The Columbia University Earth Institute predicts that the total number of vehicles in the United States will be reduced to one-tenth.
+PricewaterhouseCoopers predicts that the overall traffic accident will be reduced to one-tenth, and that the total number of vehicles in the United States will decline from 245 million to only 2.4 million.
+KPMG and the Automotive Research Center predict that productivity and energy efficiency will improve, and new business models emerge.
+Morgan Stanley predicts that autonomous vehicles can save $1.3 trillion a year in the United States, with fuel consumption accounting for $169 billion, cost of car accidents of $488 billion, and an increase in productivity of $645 billion.
+<h3>Impact to people</h3>
+If cars can self-driving, then I can use more vehicles in my daily life, and I don't have to worry about taking a driver's license. It is easier to plan a hike during the holidays. Taxi cars are also cheaper (because there is no labor cost). There is no longer a need to concentrate on driving and not being able to check the message or answer the call in time to delay some urgent matters. The urban environment we are in is better than the original. The self-driving cars can be driven in order. I don't have to worry if there will be drunk drivers or tired drivers who will hurt pedestrians because of his mistakes. Don't worry about family and friends. Going home too late because of traffic jams.
+<h3>Reference</h3>
+Self-driving car - Wikipedia<br>
+https://en.wikipedia.org › wiki › Self-driving car<br>
 
