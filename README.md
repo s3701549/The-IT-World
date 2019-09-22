@@ -270,6 +270,50 @@ https://en.wikipedia.org/wiki/Computer_security<br>
 What is Cybersecurity? – Definition from Whatls.com https://searchsecurity.techtarget.com › definition › cybersecurity<br>
 <br>
 <br>
+<h2>Robots</h2>
+<h3>What is it?</h3>
+Robots include everything that simulates human behavior or thoughts and simulates other creatures (such as robotic dogs, robot cats, etc.). There are many classifications and controversies in the definition of robots in the narrow sense. Some computer programs are even called robots. In contemporary industry, robots refer to man-made machine equipment that can automatically perform tasks to replace or assist humans, usually mechanical and electrical equipment, controlled by computer programs or electronic circuits.<br>
+
+The scope of the robot is very wide, and it can be autonomous or semi-autonomous. It can be anthropomorphic robots such as ASIMO from Honda's technical industry or TOPIO from TOSY, and industrial robots. It also includes multiple robots that work together.  By mimicking realistic appearance and automated movements, the ideal high-simulation robots are the product of advanced integrated cybernetics, mechatronics, computer and artificial intelligence, materials science and bionics, and the current scientific community is researching and developing in this direction. The topic of robots is common in science fiction.<br>
+
+Robotics is a technical study on the design, assembly, operation and application of robots, as well as computer systems for controlling robots, sensor feedback and information processing. Robots can replace humans in some dangerous environments or manufacturing processes, or replace humans in appearance, behavior, or cognition. Many machine concepts come from nature, so there is the emergence of bionic robotics.<br>
+
+Robots can do some repetitive or dangerous work, humans do not want to do the work, but also can do some work that humans can't do because of size restrictions, even in an environment like outer space or deep sea, which is not suitable for human existence. There are some doubts about more and more robots and their roles in society. Because robots can replace human beings in more and more aspects, they are considered to be one of the main reasons for increasing the number of unemployed people. The robots used in the war also have moral doubts. The possibility of robot autonomy and its influence is one of the themes of science fiction, and it may become a problem that will actually occur in the future.<br>
+<h3>Asimov Robot's Three Laws</h3>
+Imagined robots’ renegade humans
+The description of robot behavior in science fiction is best known by the science fiction writer Essa Asimov's "Three Laws of Robots" in the novel "I, Robot". The three "laws" that Asimov proposed for robots, procedurally stipulated that all robots must comply with:<br>
+The first rule: robots must not harm humans and ensure that humans are not harmed;<br>
+The second rule: Under the premise of not violating the first rule, the robot must obey the command of human beings;<br>
+The third rule: robots must protect themselves without violating the first and second rules.<br>
+The purpose of the "Three Laws of Robots" is to protect humans from harm, but in the novel, Asimov also explores the possibility of harming human beings without violating the three laws, and even constantly challenging these three laws in the novel. Find many vulnerabilities in the law that looks perfect. In reality, the "three laws" become the basis of mechanical ethics.<br>
+<h3>Robots that are already in existence or under development, and their impact Contemporary application robot</h3>
+Nowadays, for humans, work that is too dirty, too dangerous, too fine, too heavy or too boring is often done by robots. Many of the mission-oriented robots are used in production lines in manufacturing plants. Other applications include injection molding, construction, oil drilling, ore mining, space exploration, underwater exploration, poisoning material cleanup, search and rescue, medicine, Military field, etc.<br>
+<h4>Welding Robot</h4>
+Welding robots are the most common type of industrial robots and are commonly used in the large-scale manufacturing of automotive manufacturing machinery lines, in the welding of automotive bodies and other parts that use welding processes.
+<h4>Painting robot</h4>
+Painting robots are also the most common type of industrial robots and are often used to paint on car bodies.
+<h4>Combat robot</h4>
+The countries that are at the forefront of combat robot research and development include the United States and Israel. If you do not include all kinds of unmanned aircraft in service around the world, the typical case is DRDO (Defense Research and Development Organization) company Daksh, iRobot PackBot, Foster-Miller's "claw", Israel's USV (Unmanned Security Vehicle) company's Guardium, South Korea's Samsung's SGR-A1.<br>
+Current combat robots have been used in local wars such as Afghanistan and Palestine-Israel conflicts. Common tasks include reconnaissance, mine clearance, etc. These robots are often very flexible and can travel through complex terrain such as BigDog and Atlas of Boston, USA. Some models of robots are equipped with offensive weapons such as machine guns.<br>
+<h4>Scientific research robot</h4>
+It is often used to explore places that are difficult for humans to access safely or simply. There are underwater robots, extraterrestrial exploration robots (Courage, Opportunity), cave/closed room exploration robots, volcano research robots, space exploration robots, and so on.
+<h4>Human body robot (semi-robot)</h4>
+See also: semi-robot
+Some humans will be transformed into robots through surgery, inputting their own consciousness into the computer, etc., for the purpose of maintaining law and order, military battles and so on.
+<h4>Pet, doll robot</h4>
+Robots can also be used as entertainment toys and even become pets and companions in human life. The "BeRobot Humanoid Robot" launched by Taiwan's Extremely Interesting Technology Co., Ltd. and the "Aibo" robotic pet launched by Sony Corporation of Japan are actual cases. Some Japanese areas have already used children's body robots for reception.
+<h4>Industrial robot</h4>
+Refers to an electromechanical integration production equipment consisting of an operating machine (mechanical body), a controller, a servo drive system and a sensing device, which can be used for human-like operation, automatic control, reprogrammable, and can perform various operations in three-dimensional space. It is especially suitable for multi-variety and variable-volume elastic manufacturing systems.<br>
+An industrial robot can only include a link between a feeling and an action, and this link is not manually manipulated by a person. The action of the robot may be the action of an electric motor or a driver (also called an effector) moving one arm to open or close a clip. Such direct and detailed control and feedback may be provided by programs running on external or embedded computers or microcontrollers. According to this definition, all automatic devices count as robots.<br>
+Industrial robots can directly accept human commands, run pre-programmed programs, or act on principles that are based on artificial intelligence techniques.<br>
+In terms of the development status of industrial robots, 114,365 new industrial robots were installed in the world in 2007, an increase of 3% compared with 111,052 newly installed in 2006. By the end of 2007, the number of industrial robots in the world had reached 995,000 units. In 2007, the assembly volume of industrial robots in Asia and the Americas increased significantly. The development of the automotive industry and the electronics industry was a major factor in the strong growth of industrial robot assembly in the above regions. In addition, the demand for industrial robots for the chemical industry has also increased rapidly.<br>
+<h3>Their impact to human</h3>
+Robots can replace people's physical labour and some special occupations of people. It will cause some people to change their work types and even cause losing job. On the one hand, people hope that robots can replace human beings for various kinds of labour, and on the other hand, they are worried that their development will cause new problems. In fact, the social structure is undergoing a quiet change in the past decade or so. The social structure of "human-machine" will eventually be replaced by the social structure of "human-robot". Nowadays and many future jobs that are originally undertaken by people will be handled by robots. Therefore, people will have to learn to get along with intelligent machines and adapt to this changing social structure.
+
+<h3>Reference</h3>
+Robot - Wikipedia<br>
+https://en.wikipedia.org › wiki › Robot<br>
+<br>
 <h1>Project ideal</h1>
 En.wikipedia.org. (2019). Black Mirror. [online] Available at: https://en.wikipedia.org/wiki/Black_Mirror [Accessed 20 Sep. 2019].<br>
 <h2>Overview</h2>
